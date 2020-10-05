@@ -1,6 +1,6 @@
 # program created by Adam Reed
 # started on 5-28-2020
-# finished on ...
+# finished on 7-3-2020
 
 import tkinter  # for the UI
 from tkinter import ttk  # for the UI
